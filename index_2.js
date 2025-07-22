@@ -1,1 +1,1 @@
-Initial content
+console.log("Initial content");
